@@ -1,4 +1,5 @@
-### Olá, bem vindo(a). Eu sou a Tauane Sales 👋
+### Hello, welcome. I'm Tauane Sales and a Fullstack Developer Inter at IBM.
+
 
 <div align="center">
   <a href="https://github.com/tauanesales">
