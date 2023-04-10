@@ -8,6 +8,8 @@
 </div>
   
 <div align="center" style="display: inline_block "><br>
+  <img align="center" alt="Tauane-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  &nbsp;
   <img align="center" alt="Tauane-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;
   <img align="center" alt="Tauane-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
