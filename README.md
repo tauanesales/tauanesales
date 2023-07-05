@@ -1,4 +1,4 @@
-### Hello, welcome! I'm Tauane Sales, a Fullstack Developer at IBM.
+### Hello, welcome! I'm Tauane Sales, Fullstack Developer and Social Media Ambassador Latin America at IBM.
 
 
 <div align="center">
