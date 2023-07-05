@@ -1,4 +1,4 @@
-### Hello, welcome! I'm Tauane Sales, a Fullstack Developer Inter at IBM.
+### Hello, welcome! I'm Tauane Sales, a Fullstack Developer at IBM.
 
 
 <div align="center">
