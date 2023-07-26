@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/tauanesales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauanesales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-beta-black.vercel.app/api?username=tauanesales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauanesales&layout=compact&langs_count=8&theme=dracula"/>
 </div>
   
