@@ -1,5 +1,8 @@
 ### Hello, welcome! I'm Tauane Sales, Fullstack Developer and Social Media Ambassador Latin America at IBM.
 
+- 6th Semester Computer Science UFBA.
+- Researcher in Edge and Fog computing.
+  
 
 <div align="center">
   <a href="https://github.com/tauanesales">
